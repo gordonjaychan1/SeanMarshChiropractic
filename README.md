@@ -1,4 +1,4 @@
-# Pleasanton Upper Cervical — Dr. Sean Marsh, D.C.
+# Pleasanton Upper Cervical: Dr. Sean Marsh, D.C.
 
 Sample website for Dr. Sean Marsh's upper cervical chiropractic practice at 4224 Stanley Blvd, Pleasanton, CA (formerly Forest Chiropractic Office).
 
